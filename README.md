@@ -1,1 +1,1 @@
-# api-ghost
+# setup-project-ghost
