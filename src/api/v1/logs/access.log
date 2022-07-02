@@ -1,0 +1,10 @@
+::1 - - [01/Jul/2022:07:59:48 +0000] "GET /api/v1/users HTTP/1.1" 304 -
+::1 - - [01/Jul/2022:07:59:49 +0000] "GET /favicon.ico HTTP/1.1" 400 36
+::1 - - [01/Jul/2022:08:00:01 +0000] "GET /api/v1/users/login HTTP/1.1" 304 -
+::1 - - [01/Jul/2022:08:00:02 +0000] "GET /favicon.ico HTTP/1.1" 400 36
+::1 - - [01/Jul/2022:08:56:23 +0000] "GET /api/v1/users HTTP/1.1" 304 -
+::1 - - [01/Jul/2022:08:56:23 +0000] "GET /favicon.ico HTTP/1.1" 400 36
+::1 - - [01/Jul/2022:08:57:09 +0000] "GET /api/v1/users HTTP/1.1" 304 -
+::1 - - [01/Jul/2022:08:57:09 +0000] "GET /favicon.ico HTTP/1.1" 400 36
+::ffff:127.0.0.1 - - [01/Jul/2022:08:57:16 +0000] "GET /api/v1/users HTTP/1.1" 200 12
+::ffff:127.0.0.1 - - [01/Jul/2022:08:57:16 +0000] "GET /favicon.ico HTTP/1.1" 400 36
